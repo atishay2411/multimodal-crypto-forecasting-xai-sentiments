@@ -1,0 +1,42 @@
+File,Type,Start,End,Num_Rows,Timestamp_Column
+fear_and_greed_index.csv,Bad Timestamp,-,-,-,-
+sentiment_data_consolidated.csv,Daily,2016-01-01 00:00:00+00:00,2021-04-01 00:00:00+00:00,1918,time
+bitcoin_fear_greed_2018_2024.csv,Daily,2018-02-01 00:00:00+00:00,2024-03-07 00:00:00+00:00,2224,Date
+dataset (1).csv,Daily,2018-02-01 00:00:00+00:00,2023-03-31 00:00:00+00:00,1885,Date
+dataset.csv,Daily,2018-02-01 00:00:00+00:00,2023-03-31 00:00:00+00:00,1885,Date
+bitcoin_reddit_all.csv,Hourly,2009-05-08 13:54:29+00:00,2019-12-31 23:58:38+00:00,4243549,datetime
+Bitcoin_data.csv,Hourly,2013-10-28 19:37:16+00:00,2023-01-26 22:02:34+00:00,14648,Date
+mbsa.csv,Hourly,2014-09-18 00:00:00+00:00,2019-11-23 00:00:00+00:00,19344019,Date
+BTC_Tweets_Updated.csv,Hourly,2018-03-23 00:40:32+00:00,2018-03-23 08:55:19+00:00,50852,Date
+bitcoin-sentiment-tweets 2.csv,Hourly,2018-03-23 00:40:40+00:00,2018-03-23 08:55:05+00:00,1897,date
+bitcoin-sentiment-tweets.csv,Hourly,2018-03-23 00:40:40+00:00,2018-03-23 08:55:05+00:00,1897,date
+final_combined (1).csv,Hourly,2018-05-15 06:00:00+00:00,2019-12-31 23:00:00+00:00,14298,datetime
+RealtimeTweets.csv,Hourly,2019-03-14 14:30:47+00:00,2019-03-21 15:13:18+00:00,807778,Created_at
+RealtimeTweets1.csv,Hourly,2019-03-14 14:30:47+00:00,2019-03-21 15:13:18+00:00,480772,Created_at
+cryptopanic_sentiment.csv,Hourly,2020-02-10 00:00:00+00:00,2020-06-25 00:00:00+00:00,19302,Date
+jan_cryptopanic.csv,Hourly,2021-01-07 00:00:00+00:00,2021-02-03 00:00:00+00:00,200,published_at
+Bitcoin_tweets.csv,Hourly,2021-02-05 10:52:04+00:00,2023-01-09 23:59:54+00:00,4689288,date
+bitcoin_tweets1000000.csv,Hourly,2021-02-05 10:52:04+00:00,2021-08-21 12:58:29+00:00,999986,date
+unbalanced_twitter_btc_big.csv,Hourly,2021-02-05 11:00:00+00:00,2023-01-10 00:00:00+00:00,12307395,date
+balanced_twitter_btc_big.csv,Hourly,2021-02-05 11:00:00+00:00,2023-01-10 00:00:00+00:00,10078895,date
+bitcoin_sentiments_21_24.csv,Hourly,2021-11-05 04:42:00+00:00,2024-09-12 00:00:00+00:00,11295,Date
+bitcoin-tweets-2022.csv,Hourly,2022-01-01 00:00:00+00:00,2022-06-30 23:59:55+00:00,7865899,datetime
+tweets 2.csv,Hourly,2022-01-01 00:00:00+00:00,2023-06-22 00:00:00+00:00,76797,date
+BTC_Tweets.csv,Hourly,2022-04-07 13:00:00+00:00,2022-08-30 12:31:00+00:00,103059,Date
+Bitcoin 2.csv,Hourly,2022-12-08 13:59:26+00:00,2022-12-19 06:44:57+00:00,1897,timestamp
+Bitcoin.csv,Hourly,2022-12-08 13:59:26+00:00,2022-12-19 06:44:57+00:00,1897,timestamp
+Bitcoin Pulse  Hourly Dataset from Markets Trends and Fear.csv,Hourly,2023-04-09 00:00:00+00:00,2025-04-07 19:00:00+00:00,17516,timestamp
+merged_fix_to_hour.csv,Hourly,2023-04-16 00:00:00+00:00,2025-04-14 18:00:00+00:00,17515,Datetime
+twitter_validation.csv,No Timestamp,-,-,-,-
+cleanprep.csv,No Timestamp,-,-,-,-
+bitcoin_articles.csv,No Timestamp,-,-,-,-
+bitcointweets.csv,No Timestamp,-,-,-,-
+twitter_training.csv,No Timestamp,-,-,-,-
+Data_To_Hourervals_no_filter.csv,No Timestamp,-,-,-,-
+df_Final.csv,No Timestamp,-,-,-,-
+bitcoin-tweets-2021.csv,Unreadable,-,-,-,-
+crypto_10k_tweets_(2021_2022Nov).csv,Unreadable,-,-,-,-
+unbalanced_twitter_btc_small.csv,Unreadable,-,-,-,-
+Bitcoin_tweets_dataset_2.csv,Unreadable,-,-,-,-
+balanced_twitter_btc_small.csv,Unreadable,-,-,-,-
+tweets.csv,Unreadable,-,-,-,-

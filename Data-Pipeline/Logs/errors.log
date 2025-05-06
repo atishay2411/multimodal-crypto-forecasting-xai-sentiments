@@ -1,0 +1,229 @@
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Kernel.poll_control_queue() running at /opt/anaconda3/lib/python3.11/site-packages/ipykernel/kernelbase.py:301> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at /opt/anaconda3/lib/python3.11/asyncio/futures.py:394]>
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Kernel.poll_control_queue() running at /opt/anaconda3/lib/python3.11/site-packages/ipykernel/kernelbase.py:301> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at /opt/anaconda3/lib/python3.11/asyncio/futures.py:394]>
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+ERROR:root:Parser error in Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Parser error in Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Parser error in Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Calling read(nbytes) on source failed. Try engine='python'.
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Failed to load Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/Bitcoin_tweets.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/balanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/mbsa.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:Chunk reading failed for Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Chunk reading failed for Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:Chunk reading failed for Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:huggingface_hub.file_download:Error while downloading from https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F10/model.safetensors: HTTPSConnectionPool(host='cas-bridge.xethub.hf.co', port=443): Read timed out.
+Trying to resume download...
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<Kernel.poll_control_queue() running at /opt/anaconda3/lib/python3.11/site-packages/ipykernel/kernelbase.py:301> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at /opt/anaconda3/lib/python3.11/asyncio/futures.py:394]>
+ERROR:root:File processing failed: Data/unbalanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/bitcoin-tweets-2021.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/bitcoin-tweets-2022.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/crypto_10k_tweets_(2021_2022Nov).csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/Bitcoin_tweets.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/unbalanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/balanced_twitter_btc_big.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/mbsa.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/Bitcoin_tweets_dataset_2.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/balanced_twitter_btc_small.csv: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+ERROR:root:File processing failed: Data/Data_To_Hourervals_no_filter.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:File processing failed: Data/df_Final.csv: Error tokenizing data. C error: Expected 2 fields in line 3141, saw 3
+
+ERROR:root:File processing failed: Data/tweets.csv: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Kernel.poll_control_queue() running at /opt/anaconda3/lib/python3.11/site-packages/ipykernel/kernelbase.py:301> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_chain_future.<locals>._call_set_state() at /opt/anaconda3/lib/python3.11/asyncio/futures.py:394]>
